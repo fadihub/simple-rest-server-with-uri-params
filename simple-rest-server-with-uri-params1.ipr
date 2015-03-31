@@ -35,16 +35,22 @@
       <map>
         <entry key="$PROJECT_DIR$/../../hello" value="2848407170000" />
         <entry key="$PROJECT_DIR$/../admin" value="2847591674000" />
+        <entry key="$PROJECT_DIR$/../echo-websocket" value="2855496804000" />
         <entry key="$PROJECT_DIR$/../echo-websocket1" value="2854119107000" />
+        <entry key="$PROJECT_DIR$/../event-bus-system-qbit" value="2855156941000" />
+        <entry key="$PROJECT_DIR$/../event-channels-qbit" value="2855391743000" />
         <entry key="$PROJECT_DIR$/../hello" value="2850826363000" />
         <entry key="$PROJECT_DIR$/../hello-test" value="2850825122000" />
         <entry key="$PROJECT_DIR$/../inproc-microservice-qbit" value="2850936640000" />
         <entry key="$PROJECT_DIR$/../inproc-microservice-qbit-old" value="2848638876000" />
         <entry key="$PROJECT_DIR$/../qbit" value="11410132906000" />
+        <entry key="$PROJECT_DIR$/../qbit-with-spring-boot" value="2854361239000" />
+        <entry key="$PROJECT_DIR$/../qbit-with-spring-boot1" value="2854358008000" />
         <entry key="$PROJECT_DIR$/../qbit-worker-callbacks" value="2850317898000" />
         <entry key="$PROJECT_DIR$/../simpel-rest-server" value="2847288908000" />
         <entry key="$PROJECT_DIR$/../simple-rest-server" value="2849944096000" />
         <entry key="$PROJECT_DIR$" value="2854289707000" />
+        <entry key="$PROJECT_DIR$/../simple-rest-server-with-uri-params1" value="2854289707000" />
         <entry key="$PROJECT_DIR$/../todo-list-app" value="2851211575000" />
         <entry key="$PROJECT_DIR$/../todo-list-app-old" value="2849262889000" />
         <entry key="$PROJECT_DIR$/../todo-list-app1" value="2849262889000" />
@@ -56,7 +62,7 @@
         <entry key="$USER_HOME$/expamples/qbit/todo-service" value="2841684243000" />
         <entry key="$USER_HOME$/github/hello" value="2847747936000" />
         <entry key="$USER_HOME$/github/inproc-microservice-qbit" value="2848638876000" />
-        <entry key="$USER_HOME$/github/qbit" value="11412440240000" />
+        <entry key="$USER_HOME$/github/qbit" value="11417438344000" />
         <entry key="$USER_HOME$/github/simple-rest-server" value="2846758355000" />
         <entry key="$USER_HOME$/github/testing examples from git hub/todo-service" value="2853227638000" />
         <entry key="$USER_HOME$/github/updated_examples/todo-service" value="2853110060000" />
@@ -119,6 +125,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -145,19 +164,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -199,7 +205,7 @@
     <list size="0" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: ch.qos.logback:logback-classic:1.1.2">
@@ -337,13 +343,13 @@
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/2ccf1154d1a8936042a8a742dc3e611d02ac7213/hamcrest-core-1.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Gradle: org.slf4j:slf4j-api:1.7.10">
+    <library name="Gradle: org.slf4j:slf4j-api:1.7.12">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.10/5b338f206827d88acd890739f400a9b7664e5984/slf4j-api-1.7.10.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.10/4d2725efe68b9943ba0deaf334bb27116ca6b687/slf4j-api-1.7.10-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar!/" />
       </SOURCES>
     </library>
   </component>
