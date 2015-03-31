@@ -75,6 +75,7 @@ public class SimpleRestServerWithURIParamsMain {
         String results = httpClient
                 .get("/services/adder-service/add/2/2")
                 .body();
+        System.out.print("Adding the URI parameters = ");
         System.out.println(results);
 
 
@@ -88,9 +89,9 @@ public class SimpleRestServerWithURIParamsMain {
 
         Sys.sleep(100);
 
-        client.stop();
-        httpClient.stop();
-        systemManager.shutDown();
+        //client.stop();
+        //httpClient.stop();
+        //systemManager.shutDown();
 
 
     }
@@ -107,7 +108,7 @@ public class SimpleRestServerWithURIParamsMain {
         @RequestMapping("/add/{0}/{1}")
         public int add(@PathVariable int a, @PathVariable int b) {
 
-            System.out.print("Adding the URI parameters = ");
+
 
             return a + b;
 

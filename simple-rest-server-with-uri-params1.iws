@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d945df1f-310d-432c-9212-4fa04a08fbd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/simple-rest-server-with-uri-params1-1.0.jar" afterPath="$PROJECT_DIR$/build/libs/simple-rest-server-with-uri-params1-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.iml" afterPath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.ipr" afterPath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain$AdderService.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain$AdderService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" afterPath="$PROJECT_DIR$/build/resources/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" afterPath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.iws" afterPath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.iws" />
     </list>
     <ignored path="simple-rest-server-with-uri-params1.iws" />
@@ -36,10 +36,10 @@
       <file leaf-file-name="SimpleRestServerWithURIParamsMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.546697" vertical-offset="671" max-vertical-offset="1860">
-              <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.44419134" vertical-offset="1170" max-vertical-offset="1875">
+              <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
               <folding>
-                <element signature="e#0#3437#0" expanded="true" />
+                <element signature="e#0#3440#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -755,7 +755,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32416788" sideWeight="0.35285285" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -766,7 +766,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32416788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32416788" sideWeight="0.6471471" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -812,7 +812,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1421" max-vertical-offset="1860">
           <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
           <folding>
-            <element signature="e#0#3437#0" expanded="true" />
+            <element signature="e#0#3440#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -855,7 +855,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1317" max-vertical-offset="1860">
           <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
           <folding>
-            <element signature="e#0#3437#0" expanded="true" />
+            <element signature="e#0#3440#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -882,7 +882,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1423" max-vertical-offset="1860">
           <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
           <folding>
-            <element signature="e#0#3437#0" expanded="true" />
+            <element signature="e#0#3440#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -909,7 +909,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1860">
           <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
-            <element signature="e#0#3437#0" expanded="true" />
+            <element signature="e#0#3440#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -989,10 +989,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.546697" vertical-offset="671" max-vertical-offset="1860">
-          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.44419134" vertical-offset="1170" max-vertical-offset="1875">
+          <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
           <folding>
-            <element signature="e#0#3437#0" expanded="true" />
+            <element signature="e#0#3440#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
