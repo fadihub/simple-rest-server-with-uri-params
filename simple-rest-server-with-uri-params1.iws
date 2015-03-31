@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d945df1f-310d-432c-9212-4fa04a08fbd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain$AdderService.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain$AdderService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" afterPath="$PROJECT_DIR$/build/resources/main/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" afterPath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.ipr" afterPath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.iws" afterPath="$PROJECT_DIR$/simple-rest-server-with-uri-params1.iws" />
     </list>
     <ignored path="simple-rest-server-with-uri-params1.iws" />
@@ -36,10 +34,10 @@
       <file leaf-file-name="SimpleRestServerWithURIParamsMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44419134" vertical-offset="1170" max-vertical-offset="1875">
-              <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.55580866" vertical-offset="941" max-vertical-offset="1995">
+              <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
               <folding>
-                <element signature="e#0#3440#0" expanded="true" />
+                <element signature="e#0#3593#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -812,7 +810,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1421" max-vertical-offset="1860">
           <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
           <folding>
-            <element signature="e#0#3440#0" expanded="true" />
+            <element signature="e#0#3593#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -855,7 +853,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1317" max-vertical-offset="1860">
           <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
           <folding>
-            <element signature="e#0#3440#0" expanded="true" />
+            <element signature="e#0#3593#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -882,7 +880,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1423" max-vertical-offset="1860">
           <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
           <folding>
-            <element signature="e#0#3440#0" expanded="true" />
+            <element signature="e#0#3593#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -909,7 +907,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1860">
           <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
-            <element signature="e#0#3440#0" expanded="true" />
+            <element signature="e#0#3593#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -989,10 +987,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/SimpleRestServerWithURIParamsMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44419134" vertical-offset="1170" max-vertical-offset="1875">
-          <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.55580866" vertical-offset="941" max-vertical-offset="1995">
+          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
           <folding>
-            <element signature="e#0#3440#0" expanded="true" />
+            <element signature="e#0#3593#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>

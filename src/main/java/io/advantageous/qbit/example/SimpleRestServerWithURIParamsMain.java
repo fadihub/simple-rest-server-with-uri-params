@@ -63,7 +63,9 @@ public class SimpleRestServerWithURIParamsMain {
 
 
        /* Call the service */
-        //adderService.add(System.out::println, 1, 2);
+        System.out.print("Calling the adderService async via a WebSocket proxy interface = ");
+        adderService.add(System.out::print, 1, 2);
+
 
 
 
@@ -75,8 +77,10 @@ public class SimpleRestServerWithURIParamsMain {
         String results = httpClient
                 .get("/services/adder-service/add/2/2")
                 .body();
-        System.out.print("Adding the URI parameters = ");
+        System.out.println("\n");
+        System.out.print("Calling the adderService via the URI parameters = ");
         System.out.println(results);
+
 
 
 //        HttpResponse httpResponse = httpClient.get("/services/adder-service/foo/randomcrap/2");
@@ -112,8 +116,12 @@ public class SimpleRestServerWithURIParamsMain {
 
             return a + b;
 
+
         }
+
     }
+
+
 
 
 }
