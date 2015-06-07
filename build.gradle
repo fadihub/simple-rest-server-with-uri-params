@@ -25,7 +25,7 @@ sourceSets.main.resources.srcDir 'src/main/java'
 dependencies {
 
 
-    compile group: 'io.advantageous.qbit', name: 'qbit-vertx', version: '0.7.2'
+    compile group: 'io.advantageous.qbit', name: 'qbit-vertx', version: '0.8.6'
     
 
 
